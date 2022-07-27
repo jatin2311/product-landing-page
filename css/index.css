@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 1% 2%;
+    background-color: #ffffff;
+    /* color: #f35302; */
+    
+}
+nav{
+    display: flex;
+    flex-direction: row;
+     justify-content: center;
+    align-items: center; 
+    width: 100%; 
+} 
+
+
+
+.nav-items{
+    width: 45vw;
+    
+    display: flex;
+    height: 50px;
+    margin-left: 290px;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-right: 100px;
+
+   
+   
+    font-size: 30px;
+    
+        /* font-family: 'Fredoka One';
+        font-style: normal;
+        font-weight: 10;
+     */
+     font-family: 'Poppins';
+     font-style: normal;
+     
+
+}
+ [alt="actions"]{
+position: relative;
+margin-right: 0px;
+
+width: 300px;
+height: 50px;
+
+
+}
+
+.active-item {
+    color: #ec4508;
+}
+
+.left-section h3{
+    font-family: 'Poppins';
+     font-size: 40px;
+     
+     
+     width: 400px;
+     margin-top: 50px;
+    
+}
+[alt="circles"]{
+    
+    position: relative;
+    margin-left: 20px;  
+    margin-bottom: 10px;
+}
+
+.left-section h1{
+    
+        font-family: 'Fredoka One';
+        font-style: normal;
+        font-size: 77px;
+        font-weight: 100;
+        width: 800px;
+        height: 100px;
+        
+        margin-top: 30px;
+
+}
+
+
+.sub-headlines{
+    margin-top: 30px;
+    margin-left: 100px;
+    
+    width: 400px;
+    height: 200px;
+
+}
+
+.sub-headline{
+    font-family: 'Poppins';
+    font-size: 30px;
+}
+
+[alt="plus"]{
+   
+    margin-right: 5px;
+background-color: #ec4508;
+border-radius: 20px;
+
+}
+
+.text{
+    width: 750px;
+    
+    height: 90px;
+    
+    font-family: 'Poppins';
+    color: #1f1f1f7b;
+
+}
+
+.action-btns{
+   
+    width: 500px;
+    height: 100px;
+    
+}
+
+.action-btn{
+    background-color: #ec4508;
+    border-radius: 30px;
+    border: 0px;
+    color: #ffffff;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    position: static;
+    margin:  20px;
+    
+
+
+}
+
+.intro-section{
+    display: flex;
+    flex-direction: row;
+}
+.right-section{
+   
+    position: relative;
+    bottom: 220px;
+    left: 100px;
+}
+
+[alt="headphone"]{
+  width: 500px;
+  height: 480px;  
+      
+
+ 
+    
+} 
+
+.discount{
+    
+    position: relative;
+    top: 500px;
+    left: -70px;
+}
+
+.discount-content{
+    
+    width: 130px;
+    height: 80px;
+    position: relative;
+    top: 360px;
+    left: -40px;
+    
+}
+.discount-content h4{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Fredoka One';
+    font-size: 20px;
+}
+
+.discount-content h1{
+    color: #ffffff;
+    font-family: 'Fredoka One';
+    font-size: 50px;
+}
+
+.dots{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    height: 40px;
+    width: 200px;
+    margin-left: 150px;
+
+}
+
+.yellow-dot{
+    background-color: #ffd519;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    border: 0px;
+}
+
+.tomato-dot{
+    background-color: #ec4508;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    border: 0px;
+}
+
+.black-dot{
+    background-color: #000000;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    border: 0px;
+    
+}
+.right-section button{
+   margin-top: 40px;
+    margin-left: 150px;
+}
