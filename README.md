@@ -25,5 +25,5 @@
 
 ---
 
-![Demo-images](https://github.com/jatin2311/product-landing-page/blob/Project-07/Demo/ss-01.png)
+![Demo-images](https://github.com/jatin2311/product-landing-page/blob/Project-07/Demo/s-01.png)
 
